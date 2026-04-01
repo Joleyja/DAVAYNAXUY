@@ -1,1 +1,4 @@
 ya ty vieby, git
+
+email = "test@mail.com"
+Password = "12312312"
